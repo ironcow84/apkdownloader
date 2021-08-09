@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/apkdownloader/static/css/main.05e10cb3.chunk.css",
-    "main.js": "/apkdownloader/static/js/main.9b459c88.chunk.js",
-    "main.js.map": "/apkdownloader/static/js/main.9b459c88.chunk.js.map",
-    "runtime-main.js": "/apkdownloader/static/js/runtime-main.eee318f6.js",
-    "runtime-main.js.map": "/apkdownloader/static/js/runtime-main.eee318f6.js.map",
-    "static/js/2.baf3c6b3.chunk.js": "/apkdownloader/static/js/2.baf3c6b3.chunk.js",
-    "static/js/2.baf3c6b3.chunk.js.map": "/apkdownloader/static/js/2.baf3c6b3.chunk.js.map",
-    "static/js/3.ece6cb7b.chunk.js": "/apkdownloader/static/js/3.ece6cb7b.chunk.js",
-    "static/js/3.ece6cb7b.chunk.js.map": "/apkdownloader/static/js/3.ece6cb7b.chunk.js.map",
+    "main.css": "/apkdownloader/static/css/main.520f90bc.chunk.css",
+    "main.js": "/apkdownloader/static/js/main.36229c05.chunk.js",
+    "main.js.map": "/apkdownloader/static/js/main.36229c05.chunk.js.map",
+    "runtime-main.js": "/apkdownloader/static/js/runtime-main.194c0818.js",
+    "runtime-main.js.map": "/apkdownloader/static/js/runtime-main.194c0818.js.map",
+    "static/js/2.778202a4.chunk.js": "/apkdownloader/static/js/2.778202a4.chunk.js",
+    "static/js/2.778202a4.chunk.js.map": "/apkdownloader/static/js/2.778202a4.chunk.js.map",
+    "static/js/3.cfb004d1.chunk.js": "/apkdownloader/static/js/3.cfb004d1.chunk.js",
+    "static/js/3.cfb004d1.chunk.js.map": "/apkdownloader/static/js/3.cfb004d1.chunk.js.map",
     "index.html": "/apkdownloader/index.html",
-    "static/css/main.05e10cb3.chunk.css.map": "/apkdownloader/static/css/main.05e10cb3.chunk.css.map",
-    "static/js/2.baf3c6b3.chunk.js.LICENSE.txt": "/apkdownloader/static/js/2.baf3c6b3.chunk.js.LICENSE.txt",
+    "static/css/main.520f90bc.chunk.css.map": "/apkdownloader/static/css/main.520f90bc.chunk.css.map",
+    "static/js/2.778202a4.chunk.js.LICENSE.txt": "/apkdownloader/static/js/2.778202a4.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/apkdownloader/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eee318f6.js",
-    "static/js/2.baf3c6b3.chunk.js",
-    "static/css/main.05e10cb3.chunk.css",
-    "static/js/main.9b459c88.chunk.js"
+    "static/js/runtime-main.194c0818.js",
+    "static/js/2.778202a4.chunk.js",
+    "static/css/main.520f90bc.chunk.css",
+    "static/js/main.36229c05.chunk.js"
   ]
 }
