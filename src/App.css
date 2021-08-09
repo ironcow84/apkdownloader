@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+.Download {
+  text-align: center;
+}
+
+.Privacy {
+  text-align: center;
+}
+
+.Terms {
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

@@ -3,10 +3,19 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter, Link } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <React.Fragment>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
+        {console.log(process.env.PUBLIC_URL)}
+        <Link to="/" />
+        <Link to="/privacy" />
+        <Link to="/terms" />
+        <App />
+      </BrowserRouter>
+    </React.Fragment>
   </React.StrictMode>,
   document.getElementById('root')
 );
