@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/apkdownloader/static/css/main.520f90bc.chunk.css",
-    "main.js": "/apkdownloader/static/js/main.6eb69b74.chunk.js",
-    "main.js.map": "/apkdownloader/static/js/main.6eb69b74.chunk.js.map",
+    "main.js": "/apkdownloader/static/js/main.e9de4ad5.chunk.js",
+    "main.js.map": "/apkdownloader/static/js/main.e9de4ad5.chunk.js.map",
     "runtime-main.js": "/apkdownloader/static/js/runtime-main.194c0818.js",
     "runtime-main.js.map": "/apkdownloader/static/js/runtime-main.194c0818.js.map",
     "static/js/2.ec133a0d.chunk.js": "/apkdownloader/static/js/2.ec133a0d.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.194c0818.js",
     "static/js/2.ec133a0d.chunk.js",
     "static/css/main.520f90bc.chunk.css",
-    "static/js/main.6eb69b74.chunk.js"
+    "static/js/main.e9de4ad5.chunk.js"
   ]
 }
