@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/apkdownloader/static/css/main.520f90bc.chunk.css",
-    "main.js": "/apkdownloader/static/js/main.ee093e1b.chunk.js",
-    "main.js.map": "/apkdownloader/static/js/main.ee093e1b.chunk.js.map",
-    "runtime-main.js": "/apkdownloader/static/js/runtime-main.6a71703e.js",
-    "runtime-main.js.map": "/apkdownloader/static/js/runtime-main.6a71703e.js.map",
-    "static/js/2.f1d9541a.chunk.js": "/apkdownloader/static/js/2.f1d9541a.chunk.js",
-    "static/js/2.f1d9541a.chunk.js.map": "/apkdownloader/static/js/2.f1d9541a.chunk.js.map",
-    "static/js/3.bd1a5893.chunk.js": "/apkdownloader/static/js/3.bd1a5893.chunk.js",
-    "static/js/3.bd1a5893.chunk.js.map": "/apkdownloader/static/js/3.bd1a5893.chunk.js.map",
+    "main.js": "/apkdownloader/static/js/main.618fe7b3.chunk.js",
+    "main.js.map": "/apkdownloader/static/js/main.618fe7b3.chunk.js.map",
+    "runtime-main.js": "/apkdownloader/static/js/runtime-main.106654bc.js",
+    "runtime-main.js.map": "/apkdownloader/static/js/runtime-main.106654bc.js.map",
+    "static/js/2.820c8ab9.chunk.js": "/apkdownloader/static/js/2.820c8ab9.chunk.js",
+    "static/js/2.820c8ab9.chunk.js.map": "/apkdownloader/static/js/2.820c8ab9.chunk.js.map",
+    "static/js/3.89f43189.chunk.js": "/apkdownloader/static/js/3.89f43189.chunk.js",
+    "static/js/3.89f43189.chunk.js.map": "/apkdownloader/static/js/3.89f43189.chunk.js.map",
     "index.html": "/apkdownloader/index.html",
     "static/css/main.520f90bc.chunk.css.map": "/apkdownloader/static/css/main.520f90bc.chunk.css.map",
-    "static/js/2.f1d9541a.chunk.js.LICENSE.txt": "/apkdownloader/static/js/2.f1d9541a.chunk.js.LICENSE.txt",
+    "static/js/2.820c8ab9.chunk.js.LICENSE.txt": "/apkdownloader/static/js/2.820c8ab9.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/apkdownloader/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a71703e.js",
-    "static/js/2.f1d9541a.chunk.js",
+    "static/js/runtime-main.106654bc.js",
+    "static/js/2.820c8ab9.chunk.js",
     "static/css/main.520f90bc.chunk.css",
-    "static/js/main.ee093e1b.chunk.js"
+    "static/js/main.618fe7b3.chunk.js"
   ]
 }
